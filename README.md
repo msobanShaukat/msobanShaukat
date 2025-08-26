@@ -106,12 +106,13 @@ graph TD
 
 \<br\>
 
-### 📈 **GitHub Stats**
+---
+### 📈 GitHub Stats
 
-\<p align="center"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DmsobanShaukat%26show\_icons%3Dtrue%26theme%3Dvue-dark%26hide\_border%3Dtrue%26count\_private%3Dtrue" alt="GitHub Stats" /\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DmsobanShaukat%26layout%3Dcompact%26theme%3Dvue-dark%26hide\_border%3Dtrue" alt="Top Languages" /\>
-\</p\>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msobanShaukat&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msobanShaukat&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ```
 ```
