@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
   <a href="https://github.com/msobanShaukat">
     <img src="https://avatars.githubusercontent.com/u/74033282?v=4" width="150px" alt="Profile Picture">
@@ -101,6 +102,7 @@ graph TD
     subgraph "Agentic AI & Robotics"
         G; H; I;
     end
+````
 
 ### 📈 **GitHub Stats**
 
