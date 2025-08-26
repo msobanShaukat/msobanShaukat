@@ -1,63 +1,108 @@
-👋 Hello there! I'm Soban Shaukat
-🤖 Artificial Intelligence Engineer | Software Developer
-🚀 About Me
-🎓 I'm an MSc student in Artificial Intelligence at NUST, focusing on the core areas of ML, DL, CV, and NLP.
+<div align="center">
+  <a href="https://github.com/msobanShaukat">
+    <img src="https://avatars.githubusercontent.com/u/74033282?v=4" width="150px" alt="Profile Picture">
+  </a>
+  <h1>Hi there, I'm M. Soban Shaukat!👋</h1>
+</div>
 
-🤖 I hold a Certified Agentic AI & Robotics Engineer (CAARE) certification from Panaversity.
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/msoban-shaukat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="mailto:shaukatsoban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  </p>
+</div>
 
-💡 My passion lies in creating intelligent software systems that turn AI theory into real-world applications with a tangible impact.
+---
 
-🎯 I specialize in building robust software backends and autonomous agent frameworks for cutting-edge AI solutions.
+### 🚀 **About Me**
 
-🔭 I am actively seeking opportunities to apply my expertise in AI, robotics, and software engineering to solve complex and challenging problems.
+I am a passionate **AI & Robotics Engineer** focused on building intelligent systems that bridge **AI theory with real-world impact**. My expertise lies in designing and developing autonomous agent frameworks and robust software backends for cutting-edge AI applications.
 
-🛠️ My Toolbox
-🤖 AI & Machine Learning
-⚡ Backend & DevOps
-🔧 AI Agent Frameworks
-🤖 Robotics
-📚 Education
-Degree
+- 🎓 **MSc in Artificial Intelligence** at **NUST**, specializing in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Natural Language Processing**.
+- 🤖 **Certified Agentic AI & Robotics Engineer** (CAARE) from Panaversity, with a strong foundation in designing, developing, and deploying autonomous software agents and intelligent robotic systems.
+- 💡 Actively seeking to apply my skills in AI, robotics, and software engineering to challenging problems.
 
-Institution
+---
 
-Period
+### 🛠️ **My Tech Stack**
 
-Focus
+Here are the technologies and tools I'm proficient in:
 
-MSc Artificial Intelligence
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming Languages** | `Python` `C++` |
+| **AI/ML Frameworks** | `PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `Hugging Face` |
+| **AI Agent Development** | `OpenAI Agents SDK` `Model Context Protocol (MCP)` `Agent-to-Agent (A2A) protocol` `Agentic Memory` `Agentic RAG` |
+| **Robotics** | `ROS 2` `Gazebo Robot Simulator` `ROS-Industrial` |
+| **DevOps & Cloud** | `Docker` `Kubernetes` `Distributed Application Runtime (Dapr)` |
+| **Web & Backend** | `FastAPI` `asyncio` |
+| **Automation** | `n8n` |
 
-NUST
+---
 
-Sep 2024 - Sep 2027
+### 🎓 **Education & Expertise**
 
-ML, DL, CV, NLP
+Here's a quick overview of my academic journey and key areas of expertise.
 
-CAARE Certification
+#### **National University of Sciences and Technology (NUST)**
+**MSc, Artificial Intelligence** | Sep 2024 - Sep 2027
 
-Panaversity
+> Focused on advancing knowledge and innovation in Artificial Intelligence, with specialization in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. Engaged in thesis-driven research aimed at developing impactful AI solutions aligned with the UN Sustainable Development Goals (SDGs).
 
-Jul 2025 - Dec 2026
+- 🔑 **Key Coursework & Expertise**:
+  - `Machine Learning`
+  - `Deep Learning`
+  - `Computer Vision`
+  - `Natural Language Processing (NLP)`
+  - `Reinforcement Learning`
+  - `Robotics`
+  - `AI Ethics`
+  - `Probabilistic Graphical Models`
 
-Agentic AI & Robotics
+#### **Panaversity**
+**Certified Agentic AI & Robotics Engineer (CAARE)** | Jul 2025 - Dec 2026
 
-📈 My Development Flow
+> Built expertise in designing, developing, and deploying autonomous software agents and intelligent robotic systems. Skilled in Agentic AI development, machine learning, and robotics, with a passion for creating innovative solutions that enhance efficiency, automation, and real-world impact.
+
+- 📚 **Core Coursework & Specializations**:
+  - `AI-101`: Modern Python Programming & Low-Code Agentic AI Development
+  - `AI-201`: Fundamentals of Agentic AI
+  - `AI-210`: MCP and Building Effective Agents
+  - `AI-220`: Agentic Web
+  - `AI-301`: Agent-Native Cloud Development
+  - `AI-310`: Planet-Scale Distributed AI Agents
+  - `AI-451`: Physical & Humanoid Robotics AI
+
+---
+
+### 🤖 **My AI Development Workflow**
+
+This flowchart illustrates my typical workflow for developing an AI-powered application.
+
+```mermaid
 graph TD
-    A[Problem Analysis] --> B{Solution Design};
-    B --> C[Algorithm & Code Implementation];
-    C --> D[Testing & Validation];
-    D --> E[Deployment to Production];
-    E --> F[Monitoring & Optimization];
-    F --> A;
-    
-    style A fill:#6A5ACD,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#4682B4,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#3CB371,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
-    style E fill:#FF8C00,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#CD5C5C,stroke:#333,stroke-width:2px,color:#fff
+    A[Problem Definition] --> B{Data Collection & Preparation};
+    B --> C[Model Selection & Design];
+    C --> D[Training & Optimization];
+    D --> E[Deployment & Integration];
+    E --> F[Monitoring & Maintenance];
+    A --> G[Agentic AI Framework Design];
+    G --> H[Multi-Agent Orchestration];
+    H --> I[Physical/Cloud Deployment];
+    I --> F;
+    E --> J[Continuous Improvement & Retraining];
+    I --> J;
+    J --> D;
+
+    subgraph "AI System Development"
+        A; B; C; D; E; F; J;
+    end
+
+    subgraph "Agentic AI & Robotics"
+        G; H; I;
+    end
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=msobanShaukat&show_icons=true&theme=buefy" alt="Soban's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msobanShaukat&theme=buefy&hide_border=true" alt="Soban's GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DmsobanShaukat%26show_icons%3Dtrue%26theme%3Dvue-dark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DmsobanShaukat%26layout%3Dcompact%26theme%3Dvue-dark%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
