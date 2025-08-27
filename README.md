@@ -46,7 +46,7 @@ Here are the technologies and tools I'm proficient in:
 Here's a quick overview of my academic journey and key areas of expertise.
 
 #### **National University of Sciences and Technology (NUST)**
-**MSc, Artificial Intelligence** | Sep 2024 - Sep 2027
+**MSc, Artificial Intelligence** | Sep 2025 - Sep 2027
 
 > Focused on advancing knowledge and innovation in Artificial Intelligence, with specialization in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing. Engaged in thesis-driven research aimed at developing impactful AI solutions aligned with the UN Sustainable Development Goals (SDGs).
 
