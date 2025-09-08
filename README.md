@@ -76,35 +76,6 @@ Here's a quick overview of my academic journey and key areas of expertise.
 
 ---
 
-### 🤖 **My AI Development Workflow**
-
-This flowchart illustrates my typical workflow for developing an AI-powered application.
-
-```mermaid
-graph TD
-    A[Problem Definition] --> B{Data Collection & Preparation};
-    B --> C[Model Selection & Design];
-    C --> D[Training & Optimization];
-    D --> E[Deployment & Integration];
-    E --> F[Monitoring & Maintenance];
-    A --> G[Agentic AI Framework Design];
-    G --> H[Multi-Agent Orchestration];
-    H --> I[Physical/Cloud Deployment];
-    I --> F;
-    E --> J[Continuous Improvement & Retraining];
-    I --> J;
-    J --> D;
-
-    subgraph "AI System Development"
-        A; B; C; D; E; F; J;
-    end
-
-    subgraph "Agentic AI & Robotics"
-        G; H; I;
-    end
-````
-
-\<br\>
 
 ---
 ### 📈 GitHub Stats
