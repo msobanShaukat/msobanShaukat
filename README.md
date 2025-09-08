@@ -17,7 +17,7 @@
 
 ### 🚀 **About Me**
 
-I am a passionate **AI & Robotics Engineer** focused on building intelligent systems that bridge **AI theory with real-world impact**. My expertise lies in designing and developing autonomous agent frameworks and robust software backends for cutting-edge AI applications.
+I am a passionate **AI Software Developer** focused on building intelligent systems that bridge **AI theory with real-world impact**. My expertise lies in designing and developing autonomous agent frameworks and robust software backends for cutting-edge AI applications.
 
 - 🎓 **MSc in Artificial Intelligence** at **NUST**, specializing in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Natural Language Processing**.
 - 🤖 **Certified Agentic AI & Robotics Engineer** (CAARE) from Panaversity, with a strong foundation in designing, developing, and deploying autonomous software agents and intelligent robotic systems.
