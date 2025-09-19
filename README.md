@@ -74,8 +74,6 @@ Here's a quick overview of my academic journey and key areas of expertise.
   - `AI-310`: Planet-Scale Distributed AI Agents
   - `AI-451`: Physical & Humanoid Robotics AI
 
----
-
 
 ---
 ### 📈 GitHub Stats
